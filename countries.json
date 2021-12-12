@@ -924,6 +924,10 @@
         "code": "US"
     },
     {
+        "name": "United States of America",
+        "code": "USA"
+    },
+    {
         "name": "United States Minor Outlying Islands",
         "code": "UM"
     },
